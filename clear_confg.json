@@ -1,0 +1,15 @@
+[
+	{
+		"root": "C:/Users/zzhha/projects/goclear/test",
+		"match": ["*.js", "*.txt", "**/*.js", "**/*.txt"]
+	},
+	{
+		"root": "C:/Users/zzhha/Desktop/temp",
+		"match": [
+			"**/*.js",
+			"**/*.ts",
+			"**/*.txt",
+			"**/*.png"
+		]
+	}
+]
